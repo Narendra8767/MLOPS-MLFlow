@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/narendra tekale/MLOPS/MLOPS-MLFlow/mlruns/364530601416915844/models/m-d99b73f9bdd94ef3bda3e07d0e2ca75a/artifacts
+creation_timestamp: 1775558048666
+experiment_id: '364530601416915844'
+last_updated_timestamp: 1775558061190
+model_id: m-d99b73f9bdd94ef3bda3e07d0e2ca75a
+model_type: null
+name: random_forest
+source_run_id: c63d7b6034c3491d9ce105623373c986
+status: 2
+status_message: null

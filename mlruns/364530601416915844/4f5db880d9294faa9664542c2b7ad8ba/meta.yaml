@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/narendra tekale/MLOPS/MLOPS-MLFlow/mlruns/364530601416915844/4f5db880d9294faa9664542c2b7ad8ba/artifacts
+end_time: 1775558047575
+entry_point_name: ''
+experiment_id: '364530601416915844'
+lifecycle_stage: active
+run_id: 4f5db880d9294faa9664542c2b7ad8ba
+run_name: upset-stag-909
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775558047467
+status: 3
+tags: []
+user_id: narendra tekale

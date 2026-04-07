@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/narendra tekale/MLOPS/MLOPS-MLFlow/mlruns/364530601416915844/cd88a33d20c24ecb8d538e25a6057b6d/artifacts
+end_time: 1775558048199
+entry_point_name: ''
+experiment_id: '364530601416915844'
+lifecycle_stage: active
+run_id: cd88a33d20c24ecb8d538e25a6057b6d
+run_name: merciful-skunk-369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775558048138
+status: 3
+tags: []
+user_id: narendra tekale

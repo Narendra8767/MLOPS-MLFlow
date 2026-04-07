@@ -1,0 +1,16 @@
+creation_timestamp: 1775559017404
+current_stage: Production
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1775559161543
+model_id: m-d99b73f9bdd94ef3bda3e07d0e2ca75a
+name: Model1
+run_id: c63d7b6034c3491d9ce105623373c986
+run_link: ''
+source: models:/m-d99b73f9bdd94ef3bda3e07d0e2ca75a
+status: READY
+status_message: null
+storage_location: file:///C:/Users/narendra tekale/MLOPS/MLOPS-MLFlow/mlruns/364530601416915844/models/m-d99b73f9bdd94ef3bda3e07d0e2ca75a/artifacts
+user_id: null
+version: 1
+workspace: default
